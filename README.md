@@ -1,0 +1,2 @@
+# neuralNetwork
+machine learning
